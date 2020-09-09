@@ -4,7 +4,7 @@ application:
   showVersionNumber: false
   showGitHubLinks: false
   welcomeBanner:
-    showOnFirstStart: false
+    showOnFirstStart: true
 challenges:
   showHints: false
 hackingInstructor:
