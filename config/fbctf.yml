@@ -6,7 +6,7 @@ application:
   welcomeBanner:
     showOnFirstStart: true
 challenges:
-  showHints: false
+  showHints: true
 hackingInstructor:
   isEnabled: false
 ctf:
